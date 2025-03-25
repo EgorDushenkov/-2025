@@ -1,2 +1,2 @@
-https://disk.yandex.ru/d/7DCEtfl12xTHag
+https://disk.yandex.ru/d/yqay6feplWDljw
 По этой ссылке нужно скачать архив, распаковать его в папку и запустить файл "My project (2).exe"
